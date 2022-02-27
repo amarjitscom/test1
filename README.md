@@ -3,13 +3,13 @@ This is a demo TOPSIS package
 
 ## Installation
 
-`pip install Topsis-Amarjit-420420840`
+`pip install ajs-mytest`
 
 ## How to use it?
 
 Once installed you can simply use it from command line.
 
-`python <ProgramName> <file.csv> <weights array> <impacts array> <file.csv>`
+`python <ajsmytest> <file.csv> <weights array> <impacts array> <file.csv>`
 
 ## License
 
